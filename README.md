@@ -1,0 +1,2 @@
+# SCM_HW1_shmookh
+HOM WORK SCM
